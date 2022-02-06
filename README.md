@@ -1,4 +1,11 @@
 # RxSwift-flatMap-and-flatMapLatest
+
+There are two frameworks in the pod file, you need to install them to work with the project.
+
+In the terminal, at the folder address, you need to find the pod install command.
+
+Then creating the project, two frameworks were used https://github.com/SnapKit/SnapKit and https://github.com/ReactiveX/RxSwift
+
 In the project implemented the ability to see the difference between *flatMap* and *flatMapLatest*
 
 *flatMap* - keeps up with each and every observable it creates, one for each element added onto the source observable.
